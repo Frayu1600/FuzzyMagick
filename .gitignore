@@ -1,2 +1,5 @@
 proj2venv/
 AFLplusplus/
+ImageMagick-6.9.12-98/
+afl-tests/png-out/
+AFLplusplus/
