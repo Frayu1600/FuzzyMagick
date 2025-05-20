@@ -2,3 +2,6 @@ proj2venv/
 AFLplusplus/
 ImageMagick-*/
 afl-tests/png-out/
+
+bg_2.pdf 
+empty.pdf 
